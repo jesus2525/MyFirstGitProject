@@ -7,5 +7,7 @@ public class GitProject {
 		this.param1 = param1;
 		this.param2 = param2;
 	}
-	
+	public void showMessage2() {
+		System.out.println("message from jesus2525");
+	}
 }
